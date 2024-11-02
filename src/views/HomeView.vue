@@ -29,7 +29,7 @@ const next = () => {
     <!-- Hero Section -->
     <section class="relative h-[700px]">
       <img 
-        src="../../images/cover.png" 
+        src="/images/cover.png" 
         alt="Hero background" 
         class="absolute inset-0 w-full h-full object-cover"/>
       <div class="absolute inset-0 bg-black/50">
