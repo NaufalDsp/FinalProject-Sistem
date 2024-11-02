@@ -15,6 +15,7 @@ export default {
         '3xl': '28px',
         '4xl': '36px',
         '5xl': '48px',
+        '6xl': '56px',
       },
       colors: {
         'x-black': '#232536',
